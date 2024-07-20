@@ -1,7 +1,7 @@
 # PUBG_game_prediction
 This project is completed by taking help from the course "Complete machine learning and data science program" offered by Geeksforgeeks
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fpubg-pictures&psig=AOvVaw1xUWvL76qiImklxnYQDvrK&ust=1721550218510000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOigzbyYtYcDFQAAAAAdAAAAABAE">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjgKzJDV52QtQKCsButgKH-5l153n6zKJYJ8CmW6vxUvn5HQtQOpfzMYPLCt4j97cEDQ&usqp=CAU">
 </p>
 
 ## Dataset link: https://www.kaggle.com/datasets/ashishjangra27/pubg-games-dataset
